@@ -1,0 +1,261 @@
+* {
+    margin: 0;
+}
+body {
+    font-family:Arial, Helvetica, sans-serif;
+}
+.LOGO {
+    font-family: Brush Script MT, Brush Script Std;
+    font-size: 32pt;
+    font-weight: bold;
+    color: white;
+    text-decoration: none;
+}
+
+.welcome_button {
+    float: right;
+}
+
+.welcome_button ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.welcome_button li {
+    display: inline-block;
+}
+
+.welcome_button a {
+    text-decoration: none;
+    line-height: 30px;
+    color: white;
+    border: 1px;
+    border-radius: 5px;
+    padding: 8px;
+    text-align: center;
+    outline: none;
+    font-size: 12px;
+}
+
+.welcome_button a:hover {
+    background-color:rgb(87, 86, 86);
+    border: 1px;
+}
+
+.welcome {
+    background-color: #8A2BE2;
+    padding-top: 3%;
+    padding-bottom: 5%;
+}
+
+.our_portfolio {
+    background-color: #FFE4B5;
+    padding-top: 3%;
+    padding-bottom: 5%;
+}
+
+.up {
+    width: 80%;
+    margin: auto;
+}
+
+.button_work {
+    padding: 20px;
+    border-radius: 6px;
+    border-bottom-style: solid;
+    border-bottom-color: #d48363;
+    text-align: center;
+    display: block;
+    background-color: #FFA07A;
+    width: 180px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+}
+
+.button_work a {
+    color: white;
+    text-decoration: none;
+    outline: none;
+    font-size: 10pt;
+}
+
+.welcome_text {
+    width: 80%;
+    color: white;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+}
+
+.our_portfolio_text {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 30px;
+    width: 80%;
+}
+
+.our_portfolio_buttons {
+    text-align: center;
+    margin: auto;
+    width: 80%;
+}
+
+.our_portfolio_buttons li {
+    display: inline-block;
+}
+
+.our_portfolio_buttons a:hover {
+    background-color: white;
+}
+
+.button_more_projects {
+    padding: 20px;
+    border-radius: 6px;
+    text-align: center;
+    display: block;
+    margin-left:auto;
+    margin-right: auto;
+    background-color: #66CDAA;
+    border-bottom-style: solid;
+    border-bottom-color: #59b496;
+    width: 180px;
+}
+
+.button_more_projects a {
+    color: white;
+    outline: none;
+    text-decoration: none;
+    font-size: 10pt;
+}
+
+.imgs {
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+.img_block {
+    display: inline-block;
+}
+
+.img_block p {
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
+
+.get_in_touch {
+    background-color: #4169E1;
+    padding-top: 3%;
+    padding-bottom: 5%;
+}
+
+.get_in_touch_text {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 30px;
+    color: white;
+}
+
+.textbox {
+    background-color: #243c81;
+    border-radius: 3px;
+    border: 0px;
+    font-size: 14px;
+    padding: 1%;
+    color: white;
+    width: 35%;
+    display: inline-block;
+}
+
+.textbox:active {
+    border: 0px;
+}
+
+.information {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+}
+
+.textboxs {
+    margin-bottom: 10px;
+}
+
+.textbox_area {
+    background-color: #243c81;
+    border-radius: 3px;
+    border: 0px;
+    font-size: 14px;
+    padding: 1%;
+    color: white;
+    width: 73%;
+    height: 100px;
+    display: inline-block;
+}
+
+.button_send_message {
+    padding: 20px;
+    border-radius: 6px;
+    text-align: center;
+    display: block;
+    margin-left:auto;
+    margin-right: auto;
+    margin-top: 50px;
+    background-color: #67c3f8;
+    border-bottom-style: solid;
+    border-bottom-color: #5aabda;
+    width: 180px;
+}
+
+.button_send_message a {
+    color: white;
+    outline: none;
+    text-decoration: none;
+    font-size: 10pt;
+}
+
+.down_page {
+    background-color: #3c61cf;
+}
+
+.button_down_page {
+    width: 100%;
+    padding: 0;
+    float: none;
+    text-align: center;
+}
+
+.button_down_page ul {
+    list-style: none;
+}
+
+.button_down_page li {
+    display: inline-block;
+}
+
+.button_down_page a {
+    display: inline-block;
+    color: white;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 5%;
+    padding-right: 5%;
+    text-align: center;
+    outline: none;
+    text-decoration: none;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.button_down_page a:hover {
+    color: #67c3f8;
+}
